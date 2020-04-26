@@ -1,0 +1,37 @@
+@import "variables";
+
+.perfil {
+  margin-top: 80px;
+  .container {
+    display: flex;
+    justify-content: start;
+    .perfil__img {
+      margin: 40px;
+      img {
+        width: 340px;
+        border-radius: 6px;
+      }
+    }
+
+    .perfil__txt {
+      margin-top: 80px;
+      p {
+        text-align: center;
+      }
+    }
+  }
+}
+
+@media (min-width: 320px) and (max-width: 359px) {
+  .perfil {
+    .container {
+      display: block;
+      .perfil__img {
+        margin: 0px;
+        img {
+          width: 280px;
+        }
+      }
+    }
+  }
+}
