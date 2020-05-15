@@ -1,7 +1,7 @@
 <header>
     <input type="checkbox" id="btn-menu">
     <label for="btn-menu" class="icon-menu"></label>
-    <nav class="menu" id="inicio">
+    <nav class="menu" id="menu">
         <div class="container">
             <ul>
                 <li><a href="/">Inicio</a></li>

@@ -102,3 +102,108 @@
     }
   }
 }
+
+@media (min-width: 360px) and (max-width: 410px) {
+  .exp {
+    .exp__body {
+      .roi,
+      .socya,
+      .gjm,
+      .ajm,
+      .teacompano {
+        width: 100%;
+        margin-top: 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 0px;
+
+        ul {
+          padding-left: 0px;
+        }
+
+        .roi-a,
+        .socya-a,
+        .gjm-a,
+        .ajm-a,
+        .ta-a,
+        .roi-d,
+        .socya-d,
+        .gjm-d,
+        .ajm-d,
+        .ta-d {
+          padding: 8px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 411px) and (max-width: 767px) {
+  .exp {
+    .exp__body {
+      .roi,
+      .socya,
+      .gjm,
+      .ajm,
+      .teacompano {
+        width: 100%;
+        margin-top: 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 0px;
+
+        ul {
+          padding-left: 0px;
+        }
+
+        .roi-a,
+        .socya-a,
+        .gjm-a,
+        .ajm-a,
+        .ta-a,
+        .roi-d,
+        .socya-d,
+        .gjm-d,
+        .ajm-d,
+        .ta-d {
+          padding: 8px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1280px) {
+  .exp {
+    .exp__body {
+      .roi,
+      .socya,
+      .gjm,
+      .ajm,
+      .teacompano {
+        width: 100%;
+        margin-top: 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 0px;
+
+        ul {
+          padding-left: 0px;
+        }
+
+        .roi-a,
+        .socya-a,
+        .gjm-a,
+        .ajm-a,
+        .ta-a,
+        .roi-d,
+        .socya-d,
+        .gjm-d,
+        .ajm-d,
+        .ta-d {
+          padding: 8px;
+        }
+      }
+    }
+  }
+}

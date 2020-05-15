@@ -35,3 +35,45 @@
     }
   }
 }
+
+@media (min-width: 360px) and (max-width: 410px) {
+  .perfil {
+    .container {
+      display: block;
+      .perfil__img {
+        margin: 0px;
+        img {
+          width: 280px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 411px) and (max-width: 767px) {
+  .perfil {
+    .container {
+      display: block;
+      .perfil__img {
+        margin: 0px;
+        img {
+          width: 280px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1280px) {
+  .perfil {
+    .container {
+      display: block;
+      .perfil__img {
+        margin: 0px;
+        img {
+          width: 280px;
+        }
+      }
+    }
+  }
+}

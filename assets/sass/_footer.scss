@@ -156,3 +156,54 @@ footer {
     }
   }
 }
+
+@media (min-width: 360px) and (max-width: 410px) {
+  footer {
+    .container {
+      display: block;
+      .footer__nav,
+      .footer__con,
+      .footer__kino {
+        width: 100%;
+        margin: 0px;
+        margin-left: 0px;
+        padding: 0px;
+        text-align: center;
+      }
+    }
+  }
+}
+
+@media (min-width: 411px) and (max-width: 767px) {
+  footer {
+    .container {
+      display: block;
+      .footer__nav,
+      .footer__con,
+      .footer__kino {
+        width: 100%;
+        margin: 0px;
+        margin-left: 0px;
+        padding: 0px;
+        text-align: center;
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1280px) {
+  footer {
+    .container {
+      display: block;
+      .footer__nav,
+      .footer__con,
+      .footer__kino {
+        width: 100%;
+        margin: 0px;
+        margin-left: 0px;
+        padding: 0px;
+        text-align: center;
+      }
+    }
+  }
+}

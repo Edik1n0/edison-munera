@@ -17,7 +17,7 @@
                     </p>
                 </a>
             </div>
-            <div class="pb__form">
+            <!-- <div class="pb__form">
                 <p>
                     O indícame tus datos de contacto para ponerme en contacto contigo en el menor tiempo posible.
                 </p>
@@ -48,7 +48,7 @@
                     </div>
                     <input type="submit" value="Enviar" class="btn btn-danger" name="send-form">
                 </form>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>

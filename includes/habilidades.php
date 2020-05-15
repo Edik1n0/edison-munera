@@ -94,6 +94,15 @@
                             </li>
                             <li>
                                 <p>
+                                    <strong>Posicionamiento SEO/SEM: </strong>Posicionamiento en redes de búsqueda<br>Y otros conocimientos en Marketing Digital.
+                                </p>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div>
+                                    <p class="level"><strong>80%</strong></p>
+                                </div>
+                            </li>
+                            <li>
+                                <p>
                                     <strong>Desarrollo Web: </strong>HTML5, CSS3, SASS, Javascript,<br>Angular, Python, PHP y Bases de datos.
                                 </p>
                                 <div class="progress">
