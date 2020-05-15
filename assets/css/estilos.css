@@ -149,20 +149,34 @@ header .bg__slogan {
 }
 
 @media (min-width: 320px) and (max-width: 359px) {
-  header label {
-    font-size: 46px;
+  header .icon-menu {
+    display: block;
+    cursor: pointer;
+    position: fixed;
+    font-size: 36px;
     top: 40px;
     right: 40px;
     z-index: 3;
+    color: #740000;
   }
   header .menu {
     z-index: 2;
   }
   header .menu ul {
-    margin-top: 40px;
+    display: none;
+    margin-top: 0px;
+    padding-top: 20px;
+    height: 480px;
   }
   header .menu ul li {
     margin: 24px;
+  }
+  header #btn-menu:checked ~ .menu ul {
+    display: block;
+    position: fixed;
+  }
+  header #btn-menu:checked ~ .menu:hover {
+    transition: all 0.6s;
   }
   header .bg__mob {
     display: block;
@@ -185,20 +199,34 @@ header .bg__slogan {
   }
 }
 @media (min-width: 360px) and (max-width: 410px) {
-  header label {
-    font-size: 46px;
+  header .icon-menu {
+    display: block;
+    cursor: pointer;
+    position: fixed;
+    font-size: 36px;
     top: 40px;
     right: 40px;
     z-index: 3;
+    color: #740000;
   }
   header .menu {
     z-index: 2;
   }
   header .menu ul {
-    margin-top: 40px;
+    display: none;
+    margin-top: 0px;
+    padding-top: 20px;
+    height: 480px;
   }
   header .menu ul li {
     margin: 24px;
+  }
+  header #btn-menu:checked ~ .menu ul {
+    display: block;
+    position: fixed;
+  }
+  header #btn-menu:checked ~ .menu:hover {
+    transition: all 0.6s;
   }
   header .bg__mob {
     display: block;
@@ -221,20 +249,34 @@ header .bg__slogan {
   }
 }
 @media (min-width: 411px) and (max-width: 767px) {
-  header label {
-    font-size: 46px;
+  header .icon-menu {
+    display: block;
+    cursor: pointer;
+    position: fixed;
+    font-size: 36px;
     top: 40px;
     right: 40px;
     z-index: 3;
+    color: #740000;
   }
   header .menu {
     z-index: 2;
   }
   header .menu ul {
-    margin-top: 40px;
+    display: none;
+    margin-top: 0px;
+    padding-top: 20px;
+    height: 480px;
   }
   header .menu ul li {
     margin: 24px;
+  }
+  header #btn-menu:checked ~ .menu ul {
+    display: block;
+    position: fixed;
+  }
+  header #btn-menu:checked ~ .menu:hover {
+    transition: all 0.6s;
   }
   header .bg__mob {
     display: block;
@@ -257,20 +299,34 @@ header .bg__slogan {
   }
 }
 @media (min-width: 768px) and (max-width: 1280px) {
-  header label {
-    font-size: 46px;
+  header .icon-menu {
+    display: block;
+    cursor: pointer;
+    position: fixed;
+    font-size: 36px;
     top: 40px;
     right: 40px;
     z-index: 3;
+    color: #740000;
   }
   header .menu {
     z-index: 2;
   }
   header .menu ul {
-    margin-top: 40px;
+    display: none;
+    margin-top: 0px;
+    padding-top: 20px;
+    height: 480px;
   }
   header .menu ul li {
     margin: 24px;
+  }
+  header #btn-menu:checked ~ .menu ul {
+    display: block;
+    position: fixed;
+  }
+  header #btn-menu:checked ~ .menu:hover {
+    transition: all 0.6s;
   }
   header .bg__mob {
     display: block;
