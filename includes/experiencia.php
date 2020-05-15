@@ -73,7 +73,8 @@
                         <p><strong>Funciones: </strong></p>
                         <ul>
                             <li>
-                                Apoyo en el diseño, elaboración y difusión de contenido digital y fotográfico para sitio web y reestructuración del sitio para posicionamiento SEO. <a href="https://www.grupojuridicomed.com/">Grupo Jurídico Medellín</a>
+                                Apoyo en el diseño, elaboración y difusión de contenido digital y fotográfico para sitio web y reestructuración del sitio para posicionamiento SEO.
+                                <br><a href="https://www.grupojuridicomed.com/">Grupo Jurídico Medellín</a>
                             </li>
                         </ul>
                     </div>
@@ -104,6 +105,8 @@
                             <li>Asesoramiento general en Comunicación Digital</li>
                             <li>Entrega de informes mensuales de rendimiento en Google Analytics y Google My Business</li>
                             <li>Planeación y ejecución de campañas en Google Adwords (SEM) y en redes sociales</li>
+                            <li>Desarrollo de material audiovisual y animaciones 2D para canal en <a href="https://www.youtube.com/channel/UC-BVRDpwP6PiT2GDryZkXPA">YouTube</a></li>
+                            <li><strong>Acciones de Community Management:</strong>Diseño, desarrollo y publicación de post's y contenido multimedia para redes sociales</li>
                         </ul>
                     </div>
                 </div>
@@ -146,6 +149,7 @@
                             <li>Asesoramiento general en Comunicación Digital</li>
                             <li>Entrega de informes mensuales de rendimiento en Google Analytics y Google My Business</li>
                             <li>Planeación y ejecución de campañas en Google Adwords (SEM) y en redes sociales</li>
+                            <li><strong>Acciones de Community Management:</strong>Diseño, desarrollo y publicación de post's y contenido multimedia para redes sociales</li>
                         </ul>
                     </div>
                 </div>
