@@ -83,50 +83,34 @@ h4 {
 header input {
   display: none;
 }
-header label {
-  display: flex;
-  justify-content: flex-end;
-  font-size: 36px;
-  cursor: pointer;
-  position: fixed;
-  z-index: 1;
-  top: 80px;
-  right: 80px;
-  color: #740000;
+header .icon-menu {
+  display: none;
 }
 header .menu {
   width: 100%;
-  height: 754px;
-  background: #fff;
-  position: absolute;
+  margin-top: 20px;
   z-index: 0;
-  transform: translatey(-100%);
-  transition: all 0.6s;
+  position: absolute;
 }
 header .menu ul {
+  display: flex;
   list-style: none;
   text-align: center;
-  margin-top: 110px;
-  transition: all 0.6s;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.384);
 }
 header .menu ul li {
-  margin: 40px;
+  margin: 20px;
 }
 header .menu ul li a {
   color: #740000;
   text-decoration: none;
-  position: relative;
   font-size: 18px;
   font-weight: bold;
 }
 header .menu ul li a:hover {
+  color: #791010a9;
   transition: all 0.6s;
-  font-size: 20px;
-}
-header #btn-menu:checked ~ .menu {
-  display: block;
-  position: fixed;
-  transform: translatey(0%);
 }
 header .bg__logo {
   position: absolute;

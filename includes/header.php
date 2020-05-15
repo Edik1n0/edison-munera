@@ -4,12 +4,11 @@
     <nav class="menu" id="inicio">
         <div class="container">
             <ul>
-                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="/">Inicio</a></li>
                 <li><a href="#perfil">Perfil</a></li>
                 <li><a href="#datos">Datos personales</a></li>
-                <li><a href="#estudios">Estudios</a></li>
-                <li><a href="#formacion">Formación y Herramientas complementarias</a></li>
-                <li><a href="#acividades">Algunas actividades</a></li>
+                <li><a href="#estudios">Formación y Herramientas complementarias</a></li>
+                <li><a href="#actividades">Algunas actividades</a></li>
                 <li><a href="#experiencia">Experiencia laboral</a></li>
                 <li><a href="#referencias">Referencias laborales</a></li>
                 <li><a href="#portafolio">Portafolio</a></li>

@@ -1,4 +1,4 @@
-<div class="aficiones">
+<div class="aficiones" id="actividades">
     <div class="af__header">
         <h3>Algunas actividades, aficiones y pasatiempos</h3>
     </div>

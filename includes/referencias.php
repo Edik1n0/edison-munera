@@ -1,4 +1,4 @@
-<div class="ref">
+<div class="ref" id="referencias">
     <div class="ref__header">
         <h3>Algunas referencias laborales</h3>
     </div>

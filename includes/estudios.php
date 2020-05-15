@@ -1,4 +1,4 @@
-<div class="estudios">
+<div class="estudios" id="estudios">
     <div class="estudios__header">
         <h3>Formación Académica</h3>
     </div>

@@ -1,4 +1,4 @@
-<div class="porta">
+<div class="porta" id="portafolio">
     <div class="porta__header">
         <p><strong>¿Quiéres conocer mi portafolio?</strong></p>
     </div>

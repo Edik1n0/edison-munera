@@ -1,4 +1,4 @@
-<div class="exp">
+<div class="exp" id="experiencia">
     <div class="exp__header">
         <h3>Experiencia Laboral</h3>
     </div>

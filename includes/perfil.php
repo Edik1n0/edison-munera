@@ -1,4 +1,4 @@
-<div class="perfil">
+<div class="perfil" id="perfil">
     <div class="container">
         <div class="perfil__img">
             <img src="assets/img/img-into.jpg" alt="">

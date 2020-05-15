@@ -1,4 +1,4 @@
-<div class="datos">
+<div class="datos" id="datos">
     <div class="datos__header">
         <h3>Algunos datos personales</h3>
     </div>
