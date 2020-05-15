@@ -13,38 +13,38 @@
                         </a>
                     </li>
                     <li>
-                        <a href="/">
+                        <a href="#perfil">
                             <p>Perfil</p>
                         </a>
                     </li>
                     <li>
-                        <a href="/">
+                        <a href="#datos">
                             <p>Datos personales y de contacto</p>
                         </a>
                     </li>
                     <li>
-                        <a href="/">
+                        <a href="#estudios">
                             <p>Estudios</p>
                         </a>
                     </li>
                     <li>
-                        <a href="/">
-                            <p>Formación y herramientas complementarias</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/">
+                        <a href="#actividades">
                             <p>Algunas actividades</p>
                         </a>
                     </li>
                     <li>
-                        <a href="/">
+                        <a href="#experiencia">
                             <p>Experiencia laboral</p>
                         </a>
                     </li>
                     <li>
-                        <a href="/">
+                        <a href="#referencias">
                             <p>Referencias laborales</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#portafolio">
+                            <p>Portafolio</p>
                         </a>
                     </li>
                 </ul>
