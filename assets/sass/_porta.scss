@@ -9,7 +9,6 @@
     color: $blanco;
     background: $red;
     text-align: center;
-    font-size: 26px;
   }
 
   .container {
@@ -92,7 +91,8 @@
         display: block;
         .pb__drive, .pb__form {
           width: 100%;
-          margin: 0px;
+          margin-left: 0px;
+          margin-top: 20px;
           padding: 0px;
         }
       }
@@ -108,7 +108,8 @@
         display: block;
         .pb__drive, .pb__form {
           width: 100%;
-          margin: 0px;
+          margin-left: 0px;
+          margin-top: 20px;
           padding: 0px;
         }
       }
@@ -124,7 +125,8 @@
         display: block;
         .pb__drive, .pb__form {
           width: 100%;
-          margin: 0px;
+          margin-left: 0px;
+          margin-top: 20px;
           padding: 0px;
         }
       }

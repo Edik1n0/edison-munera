@@ -1,6 +1,6 @@
 <div class="porta" id="portafolio">
     <div class="porta__header">
-        <p><strong>¿Quiéres conocer mi portafolio?</strong></p>
+        <h3>¿Quiéres conocer mi portafolio?</h3>
     </div>
     <div class="container">
         <div class="porta__body">

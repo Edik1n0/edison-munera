@@ -24,7 +24,7 @@
                 <p>
                     <br>Entre mis <strong>aficiones y pasatiempos</strong> destacan:<br>
 
-                    <br>Soy adicto al cine, escucho mucha música y me encantan los filmes clásicos de terror, me gusta manejar bicicleta, escribir historias
+                    <br>Amo el cine, me gustan diferentes tipos de música y me encantan los filmes clásicos de terror, me gusta manejar bicicleta, escribir historias
                     y artículos, desarrollo de animaciones 3D, mezcla musical, edición de fotografías, rodaje de material audiovisual<br>
                     y desarrollo de contenido en general para social media.
                 </p>
