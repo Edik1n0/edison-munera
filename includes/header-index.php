@@ -7,7 +7,7 @@
     <meta property="og:title" content="Hoja de Vida - John Edison Múnera Bedoya">
     <meta property="og:type" content="Web">
     <meta property="og:url" content="https://edison-munera.herokuapp.com/">
-    <meta property="og:image" content="https://edison-munera.herokuapp.com/assets/img/img-into.jpg">
+    <meta property="og:image" content="https://edison-munera.herokuapp.com/assets/img/img-logo.jpg">
     <meta property="og:local" content="es_LA">
     <title>Hoja de Vida - John Edison Múnera Bedoya</title>
     <meta name="description" content="Hoja de Vida - John Edison Múnera Bedoya - Comunicador Social y Periodista - Universidad Pontificia Bolivariana">
