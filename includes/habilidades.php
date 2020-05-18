@@ -9,6 +9,7 @@
                     <h4>Idioma Extranjero</h4>
                 </div>
                 <div class="idiomas__body">
+                    <h4><strong>Inglés</strong></h4>
                     <ul>
                         <li>
                             <p>
