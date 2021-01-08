@@ -184,6 +184,30 @@
                 </div>
             </div>
 
+            <div class="teacompano">
+                <div class="ta-a">
+                    <p><strong>Empresa: </strong>Farsáli Colombia S.A.S</p>
+                    <p><strong>Cargo: </strong>Desarrollador Web y Asesor Comercial</p>
+                </div>
+                <div class="container">
+                    <div class="ta-b">
+                        <p><strong>Período: </strong>Febrero 2020 a la actualidad</p>
+                    </div>
+                    <div class="ta-c">
+                        <p><strong>Funciones: </strong></p>
+                        <ul>
+                            <li>Desarrollo y mantenimiento de la web <a href="https://www.farsalicolombia.com">Farsáli Colombia</a>.</li>
+                            <li>Asesoramiento en temas comerciales y publicitarios.</li>
+                            <li>Optimización y mantenimiento de los protocolos SEO/SEM.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="ta-d">
+                    <p><strong>Jefe Inmediato: </strong>José Fabián Ramírez</p>
+                    <p><strong>Contacto: </strong>+57 304 3524716</p>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
