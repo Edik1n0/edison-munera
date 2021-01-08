@@ -158,6 +158,32 @@
                     <p><strong>Contacto: </strong>+57 312 814 01 80</p>
                 </div>
             </div>
+
+            <div class="teacompano">
+                <div class="ta-a">
+                    <p><strong>Empresa: </strong>Marketing Global</p>
+                    <p><strong>Cargo: </strong>Community Manager</p>
+                </div>
+                <div class="container">
+                    <div class="ta-b">
+                        <p><strong>Período: </strong>26 de junio 2020 a la actualidad</p>
+                    </div>
+                    <div class="ta-c">
+                        <p><strong>Funciones: </strong></p>
+                        <ul>
+                            <li>Redacción de Copy's y contenidos para las redes sociales de las marcas de la empresa.</li>
+                            <li>Redacción de Blogs para las marcas de la empresa (Ccoins, BitMoney y Mega Academia).</li>
+                            <li>Publicación de los contenidos en las redes sociales de la empresa.</li>
+                            <li>Análisis estadísticos de rendimiento y de KPI's con herramientas de Analítica web</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="ta-d">
+                    <p><strong>Jefe Inmediato: </strong>Liliana Serrano Luna</p>
+                    <p><strong>Contacto: </strong>+57 300 466 5630</p>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
