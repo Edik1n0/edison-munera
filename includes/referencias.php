@@ -16,7 +16,7 @@
                     <p>Asesorías Jurídicas Medellín</p>
                 </a>
             </div>
-            <div class="ref-b">
+            <div class="ref-c">
                 <a href="https://www.farsalicolombia.com/" target="_blank" rel="nofollow">
                     <img src="assets/img/logo-farsali.png" alt="">
                     <p>Farsáli Colombia</p>
