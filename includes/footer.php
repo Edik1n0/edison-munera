@@ -98,7 +98,7 @@
             </div>
             <div class="fk__body">
                 <a href="https://www.k1n0.com.co/" target="_blank" rel="nofollow">
-                    <img src="assets/img/kino.jpg" alt="">
+                    <img src="assets/img/kino.png" alt="">
                 </a>
             </div>
         </div>

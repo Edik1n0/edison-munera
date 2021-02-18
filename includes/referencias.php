@@ -18,7 +18,7 @@
             </div>
             <div class="ref-b">
                 <a href="https://www.farsalicolombia.com/" target="_blank" rel="nofollow">
-                    <img src="assets/img/logo-og.gif" alt="">
+                    <img src="assets/img/logo-farsali.png" alt="">
                     <p>Farsáli Colombia</p>
                 </a>
             </div>
