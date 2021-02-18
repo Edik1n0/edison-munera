@@ -16,6 +16,12 @@
                     <p>Asesorías Jurídicas Medellín</p>
                 </a>
             </div>
+            <div class="ref-b">
+                <a href="https://asesoriasjuridicasmed.com/" target="_blank" rel="nofollow">
+                    <img src="assets/img/logo-og.gif" alt="">
+                    <p>Asesorías Jurídicas Medellín</p>
+                </a>
+            </div>
         </div>
     </div>
 </div>
