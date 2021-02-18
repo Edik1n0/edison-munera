@@ -5,7 +5,7 @@
     <div class="container">
         <div class="ref__body">
             <div class="ref-a">
-                <a href="https://teacompano.com.co/" target="_blank" rel="nofollow">
+                <a href="https://www.teacompano.com.co/" target="_blank" rel="nofollow">
                     <img src="assets/img/logo-web.png" alt="">
                     <p>Teacompaño - Cuidados de enfermería en el domicilio</p>
                 </a>
@@ -17,9 +17,9 @@
                 </a>
             </div>
             <div class="ref-b">
-                <a href="https://asesoriasjuridicasmed.com/" target="_blank" rel="nofollow">
+                <a href="https://www.farsalicolombia.com/" target="_blank" rel="nofollow">
                     <img src="assets/img/logo-og.gif" alt="">
-                    <p>Asesorías Jurídicas Medellín</p>
+                    <p>Farsáli Colombia</p>
                 </a>
             </div>
         </div>

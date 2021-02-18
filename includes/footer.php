@@ -97,7 +97,7 @@
                 <p><strong>Conoce K1N0C0M</strong></p>
             </div>
             <div class="fk__body">
-                <a href="https://www.facebook.com/k1n0com/">
+                <a href="https://www.k1n0.com.co/" target="_blank" rel="nofollow">
                     <img src="assets/img/kino.jpg" alt="">
                 </a>
             </div>
@@ -107,7 +107,7 @@
 
 </footer>
 <div class="footer__rights">
-    <p><strong>Todos los derechos reservados - K10C0M 2020</strong></p>
+    <p><strong>Todos los derechos reservados - <a href="https://www.k1n0.com.co/" target="_blank" rel="nofollow">K10C0M 2020</a></strong></p>
 </div>
 </body>
 
