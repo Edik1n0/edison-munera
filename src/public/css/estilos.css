@@ -363,6 +363,15 @@ footer {
   background: #740000;
   color: #fff;
 }
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+footer a:hover {
+  transition: all 0.6s;
+  text-decoration: none;
+  color: #791010a9;
+}
 footer .container {
   display: flex;
   justify-content: start;
@@ -1679,22 +1688,18 @@ footer .container .footer__kino {
   display: flex;
   justify-content: space-around;
 }
-.ref .container .ref__body .ref-a,
-.ref .container .ref__body .ref-b {
+.ref .container .ref__body .ref {
   width: 40%;
   text-align: center;
 }
-.ref .container .ref__body .ref-a a,
-.ref .container .ref__body .ref-b a {
+.ref .container .ref__body .ref a {
   color: #740000;
   text-decoration: none;
 }
-.ref .container .ref__body .ref-a a img,
-.ref .container .ref__body .ref-b a img {
+.ref .container .ref__body .ref a img {
   width: 80px;
 }
-.ref .container .ref__body .ref-a a p,
-.ref .container .ref__body .ref-b a p {
+.ref .container .ref__body .ref a p {
   width: 180px;
   height: 80px;
   opacity: 0%;
@@ -1702,32 +1707,7 @@ footer .container .footer__kino {
   margin-left: 96px;
   margin-top: 10px;
 }
-.ref .container .ref__body .ref-a a:hover p,
-.ref .container .ref__body .ref-b a:hover p {
-  display: block;
-  transition: all 0.6s;
-  opacity: 100%;
-}
-.ref .container .ref__body .ref-c {
-  width: 60%;
-  text-align: center;
-}
-.ref .container .ref__body .ref-c a {
-  color: #740000;
-  text-decoration: none;
-}
-.ref .container .ref__body .ref-c a img {
-  width: 80px;
-}
-.ref .container .ref__body .ref-c a p {
-  width: 180px;
-  height: 80px;
-  opacity: 0%;
-  font-weight: bold;
-  margin-left: 96px;
-  margin-top: 10px;
-}
-.ref .container .ref__body .ref-c a:hover p {
+.ref .container .ref__body .ref a:hover p {
   display: block;
   transition: all 0.6s;
   opacity: 100%;

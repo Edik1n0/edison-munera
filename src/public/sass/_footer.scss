@@ -5,6 +5,16 @@ footer {
   background: $red;
   color: $blanco;
 
+  a {
+    color: $blanco;
+    text-decoration: none;
+    &:hover {
+      transition: all .6s;
+      text-decoration: none;
+      color: $redlog;
+    }
+  }
+
   .container {
     display: flex;
     justify-content: start;
